@@ -1,0 +1,13 @@
+body{
+    background-color: darkcyan;
+}
+canvas{
+    color: darkgoldenrod;
+}
+#camera{
+
+    width: 340px;
+    height: 340px;
+    border: 6px dashed darkslategrey;
+
+}
